@@ -6,7 +6,7 @@
 <h3>НАВЫКИ И ТЕХНОЛОГИИ</h3>
 <p>- Инструменты анализа данных: SQL, Excel (агрегирующие функции, умные таблицы, сводные таблицы, Power Query, Power Pivot, визуализация данных, построение дашбордов), Google Sheets, PolyAnalist, Gephi.
 <p>- Языки программирования и библиотеки: Python, Pandas.
-<p>- Системы управления базами данных: СУБД MySQL, диалект PostgreSQL.
+<p>- Системы управления базами данных: MySQL, диалект PostgreSQL.
 <p>- Средства визуализации данных: PowerBi, Matplotlib, Gephi, Yandex DataLens, Looker Studio.
 
 ### Проекты
